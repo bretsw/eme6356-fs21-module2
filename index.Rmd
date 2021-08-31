@@ -33,6 +33,18 @@ class: inverse, center, middle
 
 ---
 
+# Data stories
+
+```{r, out.width = "300px", echo = FALSE, fig.align = "center"}
+include_graphics("img/data-story-tweet.jpg")
+```
+
+<div class="caption">
+Image source: <a href="https://twitter.com/alvinfoo/status/1431458670684954629">Tweet from Alvin Foo</a>
+</div>
+
+---
+
 class: inverse, center, middle
 
 # Welcome to our special guest!
